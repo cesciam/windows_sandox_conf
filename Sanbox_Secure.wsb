@@ -1,0 +1,16 @@
+<Configuration>
+<vGPU>Disable</vGPU>
+<Networking>Disable</Networking> 
+<AudioInput>Disable</AudioInput>
+<VideoInput>Disable</VideoInput>
+<ProtectedClient>Enable</ProtectedClient>
+<PrinterRedirection>Disable</PrinterRedirection>
+<ClipboardRedirection>Disable</ClipboardRedirection>
+<MappedFolders>
+<MappedFolder>
+<HostFolder>D:\Tools</HostFolder>
+<SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+<ReadOnly>true</ReadOnly>
+</MappedFolder>
+</MappedFolders>
+</Configuration>
